@@ -1,3 +1,4 @@
 GitHub is fun when you focus.
 
 Use all the available help resources when you hit a blocker.
+Channels like slack could be very useful.
